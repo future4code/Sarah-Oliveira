@@ -1,0 +1,60 @@
+body {
+    background-image: url("Background-4.jpg");
+}
+
+main {
+    margin-top: 100px;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #CD6600;
+    text-align: center;
+    font-family:
+}
+
+h2 {
+    color: #E0EEE0;
+    font-size: 350%;
+    text-align: center;
+}
+
+h3 {
+    color: #E0EEE0;
+    font-size: 120%;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 12%;
+}
+
+a {
+    margin-right: 5px;
+    margin-left: 15px;
+}
+
+header {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #EE7600;
+    text-align: center;
+    padding: 20px 0;
+    font-family: sans-serif;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    background: #EE7600;
+    text-align: center;
+    padding: 20px 0;
+}
