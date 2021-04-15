@@ -1,0 +1,43 @@
+body {
+    background-image: url("Background-4.jpg");
+}
+
+header {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #EE7600;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    background: #EE7600;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.image-21 {
+    width: 120px;
+    margin-right: 0px;
+    margin-top: 100px;
+    padding-top: 10px;
+}
+
+h1,
+p {
+    color: #E0EEE0;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 10px;
+}
