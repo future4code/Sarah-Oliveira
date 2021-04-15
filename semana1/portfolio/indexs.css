@@ -1,0 +1,50 @@
+body {
+    background-image: url("Background-4.jpg");
+}
+
+header {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #CD6600;
+    text-align: center;
+    padding: 20px 0;
+    font-family: sans-serif;
+}
+
+footer {
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    background: #CD6600;
+    text-align: center;
+    padding: 20px 0;
+}
+
+img {
+    width: 30%;
+}
+
+.eu {
+    font-family: cursive;
+    font-size: 120%;
+}
+
+h1 {
+    font-size: 120%;
+}
+
+h1,
+p {
+    color: #E0EEE0;
+}
+
+main {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 10px;
+}
